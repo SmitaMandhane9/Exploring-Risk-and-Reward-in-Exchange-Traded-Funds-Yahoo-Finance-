@@ -52,16 +52,25 @@
          - Green = positive return, Red = negative return
          - Emphasizes TQQQ’s sharp gains in bullish years and heavy losses in bearish ones
 
-  - Page3: Dollar-Cost Averaging (DCA) Calculator:
+    <img width="752" alt="image" src="https://github.com/user-attachments/assets/83c6e0ed-e9d5-4291-b00f-19d42692a8ea" />
+
+
+  - Page3: Dollar-Cost Averaging Calculator:
 
          - Enter monthly investment amount
          - See how much the investment would grow in TQQQ vs QQQ over 5 years
          - Displayed in both graph and table view
 
+    <img width="1038" alt="image" src="https://github.com/user-attachments/assets/5c9499d9-f13c-4707-9069-da37a483ac51" />
+
+
   - Page4: Rolling DCA Results (5-Year Windows):
 
          - Tracks cumulative investment growth over multiple rolling periods
          - Assesses risk/reward from different investment starting points
+
+     <img width="1034" alt="image" src="https://github.com/user-attachments/assets/75170afe-0b89-439b-ae4a-80565364d42e" />
+
 
 # Key Findings
 
