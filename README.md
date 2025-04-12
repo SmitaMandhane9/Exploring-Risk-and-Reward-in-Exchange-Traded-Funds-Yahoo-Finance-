@@ -38,7 +38,7 @@
 
 # Dashboard Insights
 
-    **Page1**: 5-Year and 10-Year Total Return Comparison:
+    Page1: 5-Year and 10-Year Total Return Comparison:
 
     Line graphs showing performance divergence between TQQQ and QQQ
 
