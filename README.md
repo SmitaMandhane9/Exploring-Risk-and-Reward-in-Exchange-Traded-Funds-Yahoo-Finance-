@@ -38,43 +38,34 @@
 
 # Dashboard Insights
 
-  - Page1:5-Year and 10-Year Total Return Comparison
+  - Page1: 5-Year and 10-Year Total Return Comparison
     
-        Line graphs showing performance divergence between TQQQ and QQQ
-        Highlights volatility and compounding effect of leverage
+        - Line graphs showing performance divergence between TQQQ and QQQ
+        - Highlights volatility and compounding effect of leverage
 
-Page2: Annual Return Breakdown (Bar Chart):
+  - Page2: Annual Return Breakdown (Bar Chart):
 
-Year-wise return comparison from 2010 to 2025
+         - Year-wise return comparison from 2010 to 2025
+         - Green = positive return, Red = negative return
+         - Emphasizes TQQQ’s sharp gains in bullish years and heavy losses in bearish ones
 
-Green = positive return, Red = negative return
+  - Page3: Dollar-Cost Averaging (DCA) Calculator:
 
-Emphasizes TQQQ’s sharp gains in bullish years and heavy losses in bearish ones
+         - Enter monthly investment amount
+         - See how much the investment would grow in TQQQ vs QQQ over 5 years
+         - Displayed in both graph and table view
 
-Page3: Dollar-Cost Averaging (DCA) Calculator:
+  - Page4: Rolling DCA Results (5-Year Windows):
 
-Enter monthly investment amount
-
-See how much the investment would grow in TQQQ vs QQQ over 5 years
-
-Displayed in both graph and table view
-
-Page4: Rolling DCA Results (5-Year Windows):
-
-Tracks cumulative investment growth over multiple rolling periods
-
-Assesses risk/reward from different investment starting points
-
+         - Tracks cumulative investment growth over multiple rolling periods
+         - Assesses risk/reward from different investment starting points
 
 # Key Findings
 
-TQQQ significantly outperforms QQQ in strong bull markets (e.g., 2019–2021)
-
-Drawdowns are severe in bear markets for TQQQ (e.g., -79% in 2022)
-
-DCA in TQQQ is more volatile, but can yield higher long-term returns if timed right
-
-QQQ provides more stable, lower-risk returns, suitable for conservative investors
+- TQQQ significantly outperforms QQQ in strong bull markets (e.g., 2019–2021)
+- Drawdowns are severe in bear markets for TQQQ (e.g., -79% in 2022)
+- DCA in TQQQ is more volatile, but can yield higher long-term returns if timed right
+- QQQ provides more stable, lower-risk returns, suitable for conservative investors
 
 # Actionable Insights
 Use the DCA simulator to assess hypothetical investment returns
