@@ -43,7 +43,7 @@
         - Line graphs showing performance divergence between TQQQ and QQQ
         - Highlights volatility and compounding effect of leverage
     
-          <img width="754" alt="image" src="https://github.com/user-attachments/assets/c70ea51f-0ae4-400f-a462-4f01305e0157" />
+    <img width="754" alt="image" src="https://github.com/user-attachments/assets/c70ea51f-0ae4-400f-a462-4f01305e0157" />
 
 
   - Page2: Annual Return Breakdown (Bar Chart):
