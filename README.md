@@ -17,17 +17,17 @@
   This project aims to build an automated dashboard that offers:
 
   - A direct comparison of TQQQ (ProShares UltraPro QQQ) vs QQQ (Invesco QQQ Trust)
-    Insights into annual return performance
-    Dollar-Cost Averaging (DCA) outcomes over multiple time frames
-    Interactive tools for investment scenario analysis
+  - Insights into annual return performance
+  - Dollar-Cost Averaging (DCA) outcomes over multiple time frames
+  - Interactive tools for investment scenario analysis
 
 # Dataset Details
 
-1. Source: Yahoo Finance
-
-2. API Used: yfinance Python library
-
-3. Assets Analyzed:
+    1. Source: Yahoo Finance
+    
+    2. API Used: yfinance Python library
+    
+    3. Assets Analyzed:
 
     QQQ: Tracks the Nasdaq-100 index (non-leveraged ETF)
 
