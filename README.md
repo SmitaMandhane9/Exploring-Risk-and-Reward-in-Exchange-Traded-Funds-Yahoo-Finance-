@@ -29,22 +29,20 @@
     
     3. Assets Analyzed:
 
-    QQQ: Tracks the Nasdaq-100 index (non-leveraged ETF)
-
-    TQQQ: A 3x leveraged ETF aiming to triple the daily performance of the Nasdaq-100
-
-4. Data Span: Covers 10+ years of daily prices and returns
-
-5. Automation: Dashboard refreshes data automatically on connection
-
+       - QQQ: Tracks the Nasdaq-100 index (non-leveraged ETF)
+       - TQQQ: A 3x leveraged ETF aiming to triple the daily performance of the Nasdaq-100
+       
+    4. Data Span: Covers 10+ years of daily prices and returns
+    
+    5. Automation: Dashboard refreshes data automatically on connection
 
 # Dashboard Insights
 
-Page1: 5-Year and 10-Year Total Return Comparison:
+    **Page1**: 5-Year and 10-Year Total Return Comparison:
 
-Line graphs showing performance divergence between TQQQ and QQQ
+    Line graphs showing performance divergence between TQQQ and QQQ
 
-Highlights volatility and compounding effect of leverage
+    Highlights volatility and compounding effect of leverage
 
 Page2: Annual Return Breakdown (Bar Chart):
 
