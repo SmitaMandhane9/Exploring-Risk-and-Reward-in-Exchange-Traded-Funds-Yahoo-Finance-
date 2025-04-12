@@ -68,10 +68,7 @@
 - QQQ provides more stable, lower-risk returns, suitable for conservative investors
 
 # Actionable Insights
-Use the DCA simulator to assess hypothetical investment returns
-
-For long-term consistent investors, QQQ offers smoother ride
-
-For risk-tolerant investors, TQQQ offers amplified gains and losses — timing matters
-
-Portfolio strategies should weigh both instruments based on market sentiment
+- Use the DCA simulator to assess hypothetical investment returns
+- For long-term consistent investors, QQQ offers smoother ride
+- For risk-tolerant investors, TQQQ offers amplified gains and losses — timing matters
+- Portfolio strategies should weigh both instruments based on market sentiment
