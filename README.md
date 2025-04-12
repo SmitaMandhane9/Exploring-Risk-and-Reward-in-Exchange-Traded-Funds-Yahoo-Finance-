@@ -7,13 +7,16 @@
 
 # Project Summary
 
-This Power BI dashboard provides a dynamic and visual comparison of the investment performance of TQQQ and QQQ, leveraging real-time data extracted from Yahoo Finance via Python API integration. It enables investors to assess the impact of leveraged ETFs over different periods using key return metrics and dollar-cost averaging simulations.
+  This Power BI dashboard provides a dynamic and visual comparison of the investment performance of TQQQ and QQQ, leveraging real-time data extracted from   
+  Yahoo Finance via Python API integration. It enables investors to assess the impact of leveraged ETFs over different periods using key return metrics and 
+  dollar-cost averaging simulations.
 
 # Problem Statement
 
-Retail and institutional investors often struggle to evaluate the long-term risks and returns of leveraged ETFs compared to their non-leveraged counterparts. This project aims to build an automated dashboard that offers:
+  Retail and institutional investors often struggle to evaluate the long-term risks and returns of leveraged ETFs compared to their non-leveraged counterparts. 
+  This project aims to build an automated dashboard that offers:
 
-    A direct comparison of TQQQ (ProShares UltraPro QQQ) vs QQQ (Invesco QQQ Trust)
+  - A direct comparison of TQQQ (ProShares UltraPro QQQ) vs QQQ (Invesco QQQ Trust)
     Insights into annual return performance
     Dollar-Cost Averaging (DCA) outcomes over multiple time frames
     Interactive tools for investment scenario analysis
