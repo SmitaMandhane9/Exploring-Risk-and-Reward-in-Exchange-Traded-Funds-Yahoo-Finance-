@@ -7,8 +7,7 @@
 
 # Project Summary
 
-  This Power BI dashboard provides a dynamic and visual comparison of the investment performance of TQQQ and QQQ, leveraging real-time data extracted from   
-  Yahoo Finance via Python API integration. It enables investors to assess the impact of leveraged ETFs over different periods using key return metrics and 
+  This Power BI dashboard provides a dynamic and visual comparison of the investment performance of TQQQ and QQQ, leveraging real-time data extracted from Yahoo Finance via Python API integration. It enables investors to assess the impact of leveraged ETFs over different periods using key return metrics and 
   dollar-cost averaging simulations.
 
 # Problem Statement
